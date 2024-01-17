@@ -16,11 +16,12 @@
 - [x] Make private and public repositories in organisation :tada:
 
 *Добавление цветов*
-HEX '#RRGGBB' '#0969DA'
 
-RGB 'rgb(R,G,B)' 'rgb(9, 105, 218)'
+'#0969DA'
 
-HSL 'hsl(H,S,L)' 'hsl(212, 92% 45%)'
+'rgb(9, 105, 218)'
+
+'hsl(212, 92% 45%)'
 
 *Использвоание Эмодзи*
 @octocat :+1: This PR looks great - it's ready to merge! :trollface:
