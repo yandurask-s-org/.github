@@ -16,7 +16,7 @@
 - [x] Make private and public repositories in organisation :tada:
 
 *Добавление цветов*
-HEX '#RRGGBB' 'test words' 
+HEX '#RRGGBB' 'rgb(9, 105, 218)' 
 
 *Использвоание Эмодзи*
 @octocat :+1: This PR looks great - it's ready to merge! :trollface:
