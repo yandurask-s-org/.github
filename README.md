@@ -17,11 +17,11 @@
 
 *Добавление цветов*
 
-'#0969DA'
+`#0969DA`
 
-'rgb(9, 105, 218)'
+`rgb(9, 105, 218)`
 
-'hsl(212, 92% 45%)'
+`hsl(212, 92% 45%)`
 
 *Использвоание Эмодзи*
 @octocat :+1: This PR looks great - it's ready to merge! :trollface:
