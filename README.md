@@ -24,5 +24,5 @@
 `hsl(212, 92% 45%)`
 
 *Использвоание Эмодзи*
-@octocat :+1: This PR looks great - it's ready to merge! :trollface:
+u spended ur time for it :trollface:
 
