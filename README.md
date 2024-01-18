@@ -1,5 +1,6 @@
 # github
 **Это публичный репозиторий организации "yandurask's"**
+
 *Список №1* 
 - George Washington
 * John Adams
